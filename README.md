@@ -31,14 +31,7 @@ cd python
 python3 demo.py
 
 ```
-
-
-
 ## Disclaimer
 This is an student project, and is not intented for real world use or development. But you're still welcome to have a look at what I've been getting up to!
 
-## Running the program
-From your install directory (not your build directory) run:
-```bash
-./build/model params.json
-```
+
