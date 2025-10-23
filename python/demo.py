@@ -7,4 +7,4 @@ import physPlot
 x = np.linspace(0,10,500)
 y = np.cos(x)
 
-physPlot.lineplot(x,y,window_name="My title",thickness=5)
+physPlot.lineplot(x,y,window_name="My title",line_thickness=5)
