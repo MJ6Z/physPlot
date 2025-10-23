@@ -1,5 +1,0 @@
-/home/marcus/src/physPlot/build/CMakeFiles/edit_cache.dir
-/home/marcus/src/physPlot/build/CMakeFiles/rebuild_cache.dir
-/home/marcus/src/physPlot/build/src/CMakeFiles/physPlot.dir
-/home/marcus/src/physPlot/build/src/CMakeFiles/edit_cache.dir
-/home/marcus/src/physPlot/build/src/CMakeFiles/rebuild_cache.dir
