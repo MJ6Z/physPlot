@@ -1,7 +1,7 @@
 # physPlot
 This project is a graphing library writtern in C++ for python, specifically for applications in Physics. The program uses openCV. An example python file, as well as demo images can be found in [python](/python)
 
-## Dependancies
+## Dependencies 
 This project requires an installation of openCV & pybind11 to compile. These are well known and easy to install.
 
 ```bash
